@@ -1,2 +1,2 @@
-# Example
-An example greeter plugin
+# Ancient Teleports Renamed
+RuneLite Plugin to Rename Ancient Teleports
